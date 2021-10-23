@@ -3,8 +3,8 @@ Termux Setup Command
 
 $pkg install git
 
-$git clone
+$git clone https://github.com/BlackB07/setup
 
-$cd setup https://github.com/BlackB07/setup
+$cd setup
 
 $python2 setup.py
